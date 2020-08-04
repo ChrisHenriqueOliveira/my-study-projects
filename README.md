@@ -19,6 +19,7 @@ Repository created to organize the projects created for the My Study Project, a 
 2. [MyBets](https://github.com/ChrisHenriqueOliveira/my-bets)
 3. [MyNotes](https://github.com/ChrisHenriqueOliveira/my-notes)
 4. [MyPets](https://github.com/ChrisHenriqueOliveira/my-pets)
+5. [MyMemoryGame](https://github.com/ChrisHenriqueOliveira/my-memory-game)
 
 ## 📝 Contato / Contact
 
